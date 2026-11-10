@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/bernardo-eliziario/)">
+  <a href="https://www.linkedin.com/in/bernardo-eliziario/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:eliziariodev@gmail.com">
